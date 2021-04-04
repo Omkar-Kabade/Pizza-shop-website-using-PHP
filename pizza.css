@@ -1,0 +1,96 @@
+/* red -> #b52032 
+    brown -> #a66c48
+    greenish white -> #ebedef cool colors
+    steel -> #c4c7cf cool colors
+    greenish dark white - > #dbe4e2  cool colors
+*/
+
+.link1{
+    float: right !important;
+    color: #dbe4e2;
+    text-decoration: none !important;
+}
+.link1:hover{
+    color: #c4c7cf !important;
+}
+.main-container-div{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.pizza-nav
+{
+    background-color: #b52032 !important;
+    border: none !important;
+}
+.pizza-footer{
+    background-color: #b52032 ;
+    margin-top: 20px;
+    vertical-align: bottom !important;
+}
+.h1{
+    color: #dbe4e2 !important;
+}
+.footer-text{
+    color: #dbe4e2;
+    text-align:center;
+}
+.form-div{
+    margin-top: 20px ;
+}
+.form-row{
+    background-color: #dbe4e2;
+    margin-bottom: 20px;
+}
+input{
+    outline: 0 !important;
+    box-shadow: none;
+}
+input:focus{
+    outline: 0 !important;
+    box-shadow: none !important;
+    border: none;
+}
+.h4-title{
+    color: #b52032 !important;
+    
+}
+.submit-btn{
+    margin-top: 10px !important;
+
+}
+.submit-btn input{
+    background-color: #b52032;
+    color: #dbe4e2;
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+}
+.submit-btn input:hover{
+    background-color: #dbe4e2;
+    color: #b52032;
+    border: 1px solid #b52032;
+}
+.error-text{
+    color: red !important;
+    font-size: 12px !important;
+}
+
+.card-action button{
+    float: right;
+    border: none;
+    outline: none;
+    background: none;
+    border: 1px solid #dbe4e2;
+    width: 100%;
+}
+.card-action button a {
+    color: #b52032;
+    text-decoration: none;
+}
+
+.all-ing{
+    list-style: none !important;
+}
+.ul-pizza{
+    padding-left: 10px !important;
+}
